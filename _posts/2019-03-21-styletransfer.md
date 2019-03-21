@@ -3,7 +3,7 @@ title: "Coloring Black&White movies Using Style Transform"
 date: 2019-03-21
 tags: [cycleGAN, Deep learning, Style Transfer]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/perceptron/p1.png"
 excerpt: ""
 mathjax: "true"
 ---
@@ -17,7 +17,7 @@ have a latest Bollywood coloured movie.  Now using this colored movie we
 are going to color our old black and white movie and obtain a coloured
 version of that old movie.
 
-#Motivation and Challenges
+# Motivation and Challenges
 Nowadays many people want to enjoy old movies and games, but of their
 old color contrast and shady black and white color people avoid watching
 them.  This might be the reason behind all this remakes coming nowadays.
@@ -36,14 +36,23 @@ objects, etc.
 * Problems related to network may occur at the time of implementation.
 Dealing with all this problems will be challenging part for us.
 
-#Work Done
+# Work Done
 The current scenario of the work done is as follows:  1) We are trying to
 collect and read as many papers related to style transfer as possible so
 that we can get essence of it.  2) Basic understanding of cycleGAN,
 textureGAN and related stuff.  3) Turning Fortnite into PUBG with Deep
 Learning using (CycleGAN)
 
+# Proposed Methodology
+The steps or let's say methodology in which are thinking of proceeding are as follows:
+1) Dividing the input video and the style video into numerous frames.
+2) Learning and setting up neural network f:X -> Y,  which will transform the frames data sets from X domain (Black & White) to Y domain (colored).
+3) Learning another network f: Y-> X , which is the exact reverse of the above network.
+4) Computing the cycle loss and training the model with appropriate data set.
+5) Discriminator network decides whether the frame is transformed or whether it is original in particular domain.
+Here's an image:
+<img src="{{ site.url }}{{ site.baseurl }}/images/p2.png" alt="linearly separable data">
 
 
-[link](/images/Presentaion.pdf) to Presentaion slide
-[link](/images/explanation.mp4) to Video Explanation
+[link](/images/Presentaion.pdf) to Presentaion slide.
+[link](/images/explanation.mp4) to Video Explanation.
