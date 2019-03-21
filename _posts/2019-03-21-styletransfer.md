@@ -3,7 +3,7 @@ title: "Coloring Black&White movies Using Style Transform"
 date: 2019-03-21
 tags: [cycleGAN, Deep learning, Style Transfer]
 header:
-  image: "/images/perceptron/p1.png"
+  image: "/images/p1.png"
 excerpt: ""
 mathjax: "true"
 ---
@@ -45,12 +45,11 @@ Learning using (CycleGAN)
 
 # Proposed Methodology
 The steps or let's say methodology in which are thinking of proceeding are as follows:
-1) Dividing the input video and the style video into numerous frames.
-2) Learning and setting up neural network f:X -> Y,  which will transform the frames data sets from X domain (Black & White) to Y domain (colored).
-3) Learning another network f: Y-> X , which is the exact reverse of the above network.
-4) Computing the cycle loss and training the model with appropriate data set.
-5) Discriminator network decides whether the frame is transformed or whether it is original in particular domain.
-Here's an image:
+* Dividing the input video and the style video into numerous frames.
+* Learning and setting up neural network f:X -> Y,  which will transform the frames data sets from X domain (Black & White) to Y domain (colored).
+* Learning another network f: Y-> X , which is the exact reverse of the above network.
+* Computing the cycle loss and training the model with appropriate data set.
+* Discriminator network decides whether the frame is transformed or whether it is original in particular domain.
 <img src="{{ site.url }}{{ site.baseurl }}/images/p2.png" alt="linearly separable data">
 
 
