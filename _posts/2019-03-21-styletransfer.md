@@ -53,5 +53,5 @@ The steps or let's say methodology in which are thinking of proceeding are as fo
 <img src="{{ site.url }}{{ site.baseurl }}/images/p2.png" alt="linearly separable data">
 
 
-[link](/images/Presentaion.pdf) to Presentaion slide.
-[link](/images/explanation.mp4) to Video Explanation.
++ [link](/images/Presentaion.pdf) to Presentaion slide.
++ [link](/images/Grp_16.mp4) to Video Explanation.
