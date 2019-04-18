@@ -67,7 +67,11 @@ another domain.
 * Computing all the losses obtained from Discriminator X, Discriminator
 Y, Generator X2Y and Generator Y2X and training all the networks
 simultaneously and training the model with appropriate data set.
-<img src="{{ site.url }}{{ site.baseurl }}/images/image.IK8L0Z.png" alt="linearly separable data">
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/image.IK8L0Z.png" alt="Figure: Block diagram of network when input is from Domain X">
+  <figcaption>Figure: Block diagram of network when input is from Domain X</figcaption>
+</figure>
+
 
 # Methodology explored
 Architecture of Generators:
@@ -100,9 +104,15 @@ cyc_X = Frame generated when input_X (frame of X domain) is
 transformed into Y domain and then again transformed into X domain.
 cyc_Y = Reverse of cyc_X .
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/image.DFEB0Z.png" alt="linearly separable data">
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/image.DFEB0Z.png" alt="Figure: Resnet Architecture">
+  <figcaption>Figure: Resnet Architecture</figcaption>
+</figure>
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/image.LQI7ZZ.png" alt="linearly separable data">
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/image.LQI7ZZ.png" alt="Figure: Generator Architecture">
+  <figcaption>Figure: Generator Architecture</figcaption>
+</figure>
 
 # Results and their discussion
 * Generator X2Y tries to learn the model in such a way that the

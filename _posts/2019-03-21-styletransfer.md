@@ -50,7 +50,11 @@ The steps or let's say methodology in which are thinking of proceeding are as fo
 * Learning another network f: Y-> X , which is the exact reverse of the above network.
 * Computing the cycle loss and training the model with appropriate data set.
 * Discriminator network decides whether the frame is transformed or whether it is original in particular domain.
-<img src="{{ site.url }}{{ site.baseurl }}/images/p2.png" alt="linearly separable data">
+
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/p2.png" alt="linearly separable data">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure>
 
 <iframe width="720" height="715" src="/images/Grp_16.mp4" frameborder="0" allowfullscreen></iframe>
 
