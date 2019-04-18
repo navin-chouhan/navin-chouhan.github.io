@@ -51,7 +51,7 @@ The steps or let's say methodology in which are thinking of proceeding are as fo
 * Computing the cycle loss and training the model with appropriate data set.
 * Discriminator network decides whether the frame is transformed or whether it is original in particular domain.
 <img src="{{ site.url }}{{ site.baseurl }}/images/p2.png" alt="linearly separable data">
-<iframe width="420" height="315" src="https://drive.google.com/open?id=1jQ-QWi7m7--m-qSnHcyRUXFfoVgFd-nz" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="/images/DL_project_2/DL_project_2.mp4" frameborder="0" allowfullscreen></iframe>
 
-+ [link](/images/DL_project01.pdf) to Presentaion slide.
-+ [link](https://drive.google.com/open?id=1jQ-QWi7m7--m-qSnHcyRUXFfoVgFd-nz) to Video Explanation.
++ [link](/images/DL_project_2/DL_project_2.pdf) to Presentaion slide.
+<!-- + [link](https://drive.google.com/open?id=1jQ-QWi7m7--m-qSnHcyRUXFfoVgFd-nz) to Video Explanation. -->
