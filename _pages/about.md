@@ -10,7 +10,7 @@ the more you'll earn
 -Warren Buffett"
 <!-- My resume is just a list of things  i really never 	 want to do again. -->
 header:
-  overlay_image: /images/hom.jpg
+  overlay_image: /images/hom1.jpg
   overlay_filter: 0.2
   caption: "Photo: [**Night at IIT Mandi, Photography Club IIT Mandi**]()"
   cta_label: "PDF Resume"
