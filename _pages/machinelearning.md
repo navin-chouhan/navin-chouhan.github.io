@@ -1,7 +1,7 @@
 ---
 layout: posts
-permalink: /data-wrangling/
-title: "Projects and Assigiments"
+permalink: /posts/
+title: "Posts"
 author_profile: true
 header:
   image: "/images/fort point.png"

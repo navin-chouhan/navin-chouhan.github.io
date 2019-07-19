@@ -1,6 +1,8 @@
 ---
+layout: home
 title: "About"
 permalink: /about/
+author_profile: true
 header:
   image: "/images/gp.jpg"
 ---
