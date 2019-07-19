@@ -1,14 +1,14 @@
 ---
+layout: single
 title: "About"
 author_profile: true
 permalink: /about/
-excerpt: "The Best investmet you can Make<br> is an investement in yourself<br> The more you learn<br> the more you'll earn <br>-Warren Buffett"
-<!-- My resume is just a list of things  i really never 	 want to do again. -->
+excerpt: "Welcome to Naveen's webpage! I am studing at Indian Instiute of Techonolgy, Mandi, majored in Computer Science. I works on Data Science, Deep Learning, Old AI, Networking, Game Development."
 header:
-  overlay_image: /images/hom.jpg
+  overlay_image: /images/hom1.jpg
   overlay_filter: 0.2
   caption: "Photo: [**Night at IIT Mandi, Photography Club IIT Mandi**]()"
-  cta_label: "PDF Resume"
+  cta_label: "Resume"
   cta_url: /images/resume.pdf
 ---
 
