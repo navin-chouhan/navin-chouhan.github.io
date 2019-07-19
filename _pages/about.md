@@ -13,14 +13,14 @@ header:
 ---
 
 # Education
-⋅⋅⋅ ## Indian Institute of Technology Mandi, Himachal Pradesh
-⋅⋅⋅ ### B. Tech. Computer Science GPA: 7.36 
+## ⋅⋅⋅ Indian Institute of Technology Mandi, Himachal Pradesh
+### ⋅⋅⋅ B. Tech. Computer Science GPA: 7.36 
 ⋅⋅⋅ Aug 2016 - July 2020
-⋅⋅⋅ ## Shiv Jyoti Sr. Sec. School, Kota, Rajasthan
-⋅⋅⋅ ### 12th, Percentage: 83.2% 
+## ⋅⋅⋅ Shiv Jyoti Sr. Sec. School, Kota, Rajasthan
+### ⋅⋅⋅ 12th, Percentage: 83.2% 
 ⋅⋅⋅ July 2014 - Apr 2015
-⋅⋅⋅ ## Shanti Nitetan Sr. Sec. School, Balotra, Rajasthan
-⋅⋅⋅ ### 10th, Percentage: 79.8% 
+## ⋅⋅⋅ Shanti Nitetan Sr. Sec. School, Balotra, Rajasthan
+### ⋅⋅⋅ 10th, Percentage: 79.8% 
 ⋅⋅⋅ July 2012 - Apr 2013
 
 # Relevant Coursework
