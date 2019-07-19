@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Navin Chauhan"
-  avatar           : /images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpg"
   bio              : "Course Projects and Assigimnets"
   location         : "IIT Mandi"
   email            : "b16022@students.iitmandi.ac.in \n\n naveen15134@gmail.com"
