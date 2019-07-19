@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CS-671 Group 17"
+title                    : "Navin Chauhan"
 title_separator          : "-"
-name                     : "Ashutosh Jamadari \n\n Naveen Kumar Chouhan \n\n Shubham Choudhary"
-description              : "Course Projects and Assigimnets"
+name                     : "Navin Chauhan"
+description              : "My web page"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,18 +84,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ashutosh Jamadari \n\n Naveen Kumar Chouhan \n\n Shubham Choudhary"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Navin Chauhan"
+  avatar           : /images/bio-photo.jpg"
   bio              : "Course Projects and Assigimnets"
   location         : "IIT Mandi"
-  email            :
+  email            : "b16022@students.iitmandi.ac.in \n\n naveen15134@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/navin.chauhan.7549"
   foursquare       :
   github           :
   gitlab           :
@@ -103,13 +103,13 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "naveen-chouhan-34549b155"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/NavinChauhan2"
   vine             :
   weibo            :
   xing             :
@@ -250,7 +250,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments:  true
       share: true
       related: true
 
