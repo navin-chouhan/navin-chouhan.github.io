@@ -3,9 +3,9 @@ layout: single
 title: "About"
 author_profile: true
 permalink: /about/
-excerpt: "Welcome to Naveen's webpage! I am studing at Indian Instiute of Techonolgy, Mandi, majored in Computer Science. I works on Data Science, Deep Learning, Old AI, Networking, Game Development."
+excerpt: "The Best investmet you can Make<br> is an investement in yourself<br> The more you learn<br> the more you'll earn <br>-Warren Buffett"
 header:
-  overlay_image: /images/hom1.jpg
+  overlay_image: /images/hom.jpg
   overlay_filter: 0.2
   caption: "Photo: [**Night at IIT Mandi, Photography Club IIT Mandi**]()"
   cta_label: "Resume"
