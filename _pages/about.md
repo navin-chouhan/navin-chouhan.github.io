@@ -3,14 +3,10 @@ layout: single
 title: "About"
 author_profile: true
 permalink: /about/
-excerpt: "The Best investmet you can Make
-is an investement in yourself 
-The more you learn 
-the more you'll earn
--Warren Buffett"
+excerpt: "The Best investmet you can Make<br> is an investement in yourself<br> The more you learn<br> the more you'll earn <br>-Warren Buffett"
 <!-- My resume is just a list of things  i really never 	 want to do again. -->
 header:
-  overlay_image: /images/hom1.jpg
+  overlay_image: /images/hom.jpg
   overlay_filter: 0.2
   caption: "Photo: [**Night at IIT Mandi, Photography Club IIT Mandi**]()"
   cta_label: "PDF Resume"
